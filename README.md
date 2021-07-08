@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SJcoded.
-- 👾 My focus is to break down big problems & find bite-sized solutions.
-- 👽 Exploring new tech to aid humanity on it's journey to become multiplanetary.
-- 💞️ If you wanna join in on a project, send me a message! >> who@sjcoded.com
-- 📨 Everyday I learn new stuff, see what I'm up to on my socials @SjCoded - Twitter or @sj.coded - Instagram
+- 👾 My software journey is designed to help me achieve my two life missions
+- 🎓 To redesign our education system and break the barriers to entry.
+- 🤖 And create space-exploration robots to aid the search for alien life.
+- 💞️ If you've got a project in mind, send me a message! >> who@sjcoded.com
+- 📨 Check out what I'm up to on my socials @SjCoded - Twitter or @sj.coded - Instagram
