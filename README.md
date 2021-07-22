@@ -1,11 +1,16 @@
-👋 Hi, I’m @SJcoded.
+# There's loads of developers working on stuff to change the world. Every industry today innovates through software.
+I want to join the cause, the fight to better our world with code. 
+Even though many industries are rapidly changing, a few lag behind. 
+I've decided to set my focus on education. 🎓
 
-👾 My software journey is designed to help me achieve my two life missions:
+Here on the page you'll find snippets of what projects I'm working on.
+No doubt I'll be testing how to change education from a variety of different technologies. 
+Anything from chrome-extensions to VR, I'm open to everything as long as it pushes humanity to learn better and faster.
+If you're into the concept and feel like you can help out, contact me anywhere on my socials. 📨
 
-- 🎓 Redesigning our education system, breaking the barriers to entry
++61 (0) 467531126 - @SJcoded (Twitter) - @sj.coded (Insta) - SJ Triffon (LinkedIn)
 
-- 🤖 To create space-exploration robots to aid the search for alien life
 
-💞️ If you've got a project in mind, send me a message! >> who@sjcoded.com
-
-📨 Check out what I'm up to on my socials @SjCoded - Twitter or @sj.coded - Instagram
+It's about time we did something.
+For our learning.
+And our kids.
