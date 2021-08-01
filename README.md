@@ -1,4 +1,4 @@
-# There's loads of developers working on stuff to change the world. Every industry today innovates through software.
+# There's loads of developers working on stuff to change the world. 
 I want to join the cause, the fight to better our world with code. 
 Even though many industries are rapidly changing, a few lag behind. 
 I've decided to set my focus on education. 🎓
