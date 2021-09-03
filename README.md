@@ -1,6 +1,6 @@
 # Transformative technology leader
 I've joined the cause, the fight to better our world with code. </br>
-Even though many industries are rapidly changing, a few lag behind. 
+Even though many industries are rapidly changing, a few lag behind. </br>
 My eyes are set on reshaping education. 🎓
 
 Here on the page you'll find snippets of what projects I'm working on.
