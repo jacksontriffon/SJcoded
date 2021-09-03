@@ -15,4 +15,3 @@ If you're into the concept and feel like you can help out, contact me anywhere o
 
 
 It's about time we did something.
-Let's build a better place for humanity to grow in.
