@@ -8,8 +8,10 @@ No doubt I'll be testing how to change education from a variety of different tec
 Anything from chrome-extensions to VR, I'm open to everything as long as it pushes humanity to learn better and faster. </br>
 If you're into the concept and feel like you can help out, contact me anywhere on my socials. 📨
 
-+61 (0) 467531126 - @SJcoded (Twitter) </br>
-- @sj.coded (Insta) - SJ Triffon (LinkedIn)
+- +61 (0) 467531126 </br>
+- @SJcoded (Twitter) </br>
+- @sj.coded (Insta) </br>
+- SJ Triffon (LinkedIn) 
 
 
 It's about time we did something.
