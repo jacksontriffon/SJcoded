@@ -1,4 +1,4 @@
-# Transformative technology leader
+# Accelerating innovation through code
 I've joined the cause, the fight to better our world with code. </br>
 Even though many industries are rapidly changing, a few lag behind. </br>
 My eyes are set on reshaping education. 🎓
